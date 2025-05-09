@@ -13,27 +13,32 @@ title: Organization
 Steffen Frey 
 : University of Groningen
 
-Johanna Beyer
-: Harvard University
-
-## Paper Chairs
-
-Guido Reina
-: University of Stuttgart
-
 Silvio Rizzi
 : Argonne National Laboratory
 
 Gunther Weber
 : Lawrence Berkeley National Laboratory
 
+## Paper Chairs
+
+Guido Reina
+: University of Stuttgart
+
+Roxana Bujack
+: Los Alamos National Laboratory
+
+Tom Peterka
+: Argonne National Laboratory 
+
+
 ## Poster Chairs
 
-Soumya Dutta
-:  Indian Institute of Technology, Kanpur (IITK)
-
-Nicole Marsaglia
+Kristi Belcher
 : Lawrence Livermore National Laboratory
+
+Jun Han
+: Hong Kong University of Science and Technology
+
 
 </div>
 
@@ -62,101 +67,103 @@ Hongfeng Yu
 
 ## Program Committee
 
-<div class="left">
-Tim Biedert
-: NVIDIA
+TBD
 
-Mark Bolstad
-: Sandia National Laboratories
+<!-- <div class="left"> -->
+<!-- Tim Biedert -->
+<!-- : NVIDIA -->
 
-Roxana Bujack
-: Los Alamos National Laboratory
+<!-- Mark Bolstad -->
+<!-- : Sandia National Laboratories -->
 
-Hamish Carr
-: University of Leeds
+<!-- Roxana Bujack -->
+<!-- : Los Alamos National Laboratory -->
 
-Soumya Dutta
-: Indian Institute of Technology Kanpur (IIT Kanpur)
+<!-- Hamish Carr -->
+<!-- : University of Leeds -->
 
-Takanori Fujiwara
-: Linköping University
+<!-- Soumya Dutta -->
+<!-- : Indian Institute of Technology Kanpur (IIT Kanpur) -->
 
-Tim Gerrits
-: RWTH Aachen University
+<!-- Takanori Fujiwara -->
+<!-- : Linköping University -->
 
-Pascal Grosset
-: Los Alamos National Laboratory
+<!-- Tim Gerrits -->
+<!-- : RWTH Aachen University -->
 
-Markus Hadwiger
-: KAUST
+<!-- Pascal Grosset -->
+<!-- : Los Alamos National Laboratory -->
 
-Jun Han
-: The Chinese University of Hong Kong, Shenzhen
+<!-- Markus Hadwiger -->
+<!-- : KAUST -->
 
-Joseph Insley
-: Argonne National Laboratory
+<!-- Jun Han -->
+<!-- : The Chinese University of Hong Kong, Shenzhen -->
 
-Won-Ki Jeong
-: Korea University
+<!-- Joseph Insley -->
+<!-- : Argonne National Laboratory -->
 
-Ming Jiang
-: Lawrence Livermore National Laboratory
+<!-- Won-Ki Jeong -->
+<!-- : Korea University -->
 
-James Klosowski
-: AT&T Labs Research
+<!-- Ming Jiang -->
+<!-- : Lawrence Livermore National Laboratory -->
 
-Matthew Larsen
-: Lawrence Livermore National Laboratory
+<!-- James Klosowski -->
+<!-- : AT&T Labs Research -->
 
-Kwan-Liu Ma
-: University of California at Davis
+<!-- Matthew Larsen -->
+<!-- : Lawrence Livermore National Laboratory -->
 
-</div>
+<!-- Kwan-Liu Ma -->
+<!-- : University of California at Davis -->
 
-<div class="right">
-Nicole Marsaglia
-: Lawrence Livermore National Laboratory
+<!-- </div> -->
 
-Victor Mateevitsi
-: Argonne National Laboratory
+<!-- <div class="right"> -->
+<!-- Nicole Marsaglia -->
+<!-- : Lawrence Livermore National Laboratory -->
 
-Patrick	O'Leary
-: Kitware, Inc.
+<!-- Victor Mateevitsi -->
+<!-- : Argonne National Laboratory -->
 
-Hyungman Park
-: Apple
+<!-- Patrick	O'Leary -->
+<!-- : Kitware, Inc. -->
 
-John Patchett
-: Los Alamos National Laboratory
+<!-- Hyungman Park -->
+<!-- : Apple -->
 
-David Pugmire
-: Oak Ridge National Laboratory
+<!-- John Patchett -->
+<!-- : Los Alamos National Laboratory -->
 
-David Rogers
-: Los Alamos National Laboratory
+<!-- David Pugmire -->
+<!-- : Oak Ridge National Laboratory -->
 
-Filip Sadlo
-: Heidelberg University
+<!-- David Rogers -->
+<!-- : Los Alamos National Laboratory -->
 
-Sudhanshu Sane
-: University of Oregon
+<!-- Filip Sadlo -->
+<!-- : Heidelberg University -->
 
-Andrea Schnorr
-: RPTU Kaiserslautern-Landau
+<!-- Sudhanshu Sane -->
+<!-- : University of Oregon -->
 
-Timothy Shead
-: Sandia National Laboratories
+<!-- Andrea Schnorr -->
+<!-- : RPTU Kaiserslautern-Landau -->
 
-David Thompson
-: Kitware, Inc.
+<!-- Timothy Shead -->
+<!-- : Sandia National Laboratories -->
 
-Terece Turton
-: Los Alamos National Laboratory
+<!-- David Thompson -->
+<!-- : Kitware, Inc. -->
 
-Will Usher
-: Luminary Cloud
+<!-- Terece Turton -->
+<!-- : Los Alamos National Laboratory -->
 
-Qi Wu
-: University of California, Davis
+<!-- Will Usher -->
+<!-- : Luminary Cloud -->
 
-</div>
+<!-- Qi Wu -->
+<!-- : University of California, Davis -->
+
+<!-- </div> -->
