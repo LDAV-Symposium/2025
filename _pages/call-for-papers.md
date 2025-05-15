@@ -8,9 +8,10 @@ title: Call for Papers
 Contact: <ldav-papers@googlegroups.com>
 
 Data scales are increasing throughout scientific, business, and research contexts. Large-scale scientific simulations, observation technologies, sensor networks, and experiments are generating enormous datasets, with some projects approaching the multiple exabyte range in the near term.
+
 Gaining insight from massive data is critical for disciplines such as climate science, nuclear physics, security, materials design, transportation, urban planning, and so on. Business-critical decisions are made based on massive data in domains like social media, machine learning, software telemetry, and business intelligence. The tools and approaches needed to search, analyze, and visualize data at extreme scales can be fully realized only from end-to-end solutions, and with collective, interdisciplinary efforts.
 
-The 15th IEEE Large Scale Data Analysis and Visualization (LDAV) symposium, to be held in conjunction with IEEE VIS 2025, is specifically targeting methodological innovation, algorithmic foundations, and possible end-to-end solutions. The LDAV symposium will bring together domain experts, data analysts, visualization researchers, and users to foster common ground for solving both near- and long-term problems.
+The 15th IEEE Large Scale Data Analysis and Visualization (LDAV) workshop, to be held in conjunction with IEEE VIS 2025, is specifically targeting methodological innovation, algorithmic foundations, and possible end-to-end solutions. The LDAV workshop will bring together domain experts, data analysts, visualization researchers, and users to foster common ground for solving both near- and long-term problems.
 
 ## Scope
 
@@ -55,11 +56,10 @@ and select Society 'VGTC', Conference 'LDAV 2025', and Track 'LDAV 2025 Papers'.
 Full papers should have a maximum length of 9 pages with up to two (2) additional pages allowed for only references (maximum total of 11 pages). Full papers may make contributions in techniques, systems, applications, evaluations, or theory. The contributions of full papers are reviewed based on their novelty, contribution, replicability, and evaluation.
 
 ### Short Papers
-Short papers are a venue to report smaller contributions than full papers and should have a length of 4+1 pages in total. Position papers and showcases of interesting application of visualization are good topics for short papers. Technique, system, application, evaluation, or theory papers that have a smaller contribution than a full paper can also be submitted as a short paper.
-
+Short papers are a venue to report smaller contributions than full papers and should have a length of 4 pages in total plus an additional page for references. Position papers and showcases of interesting applications of visualization are good topics for short papers. Technique, system, application, evaluation, or theory papers that have a smaller contribution than a full paper can also be submitted as a short paper.
 
 ## Proceedings
-The proceedings of the symposium will be published together with the VIS proceedings and via the IEEE Xplore Digital Library. 
+The proceedings of the workshop will be published together with the VIS proceedings and via the IEEE Xplore Digital Library.
 
 ## Best Paper
 The LDAV Program Committee will present a Best Paper award to the authors whose submission is deemed the strongest according to the reviewing criteria. This award will be announced in conjunction with VIS 2025.
