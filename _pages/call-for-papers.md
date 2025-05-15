@@ -55,7 +55,7 @@ and select Society 'VGTC', Conference 'LDAV 2025', and Track 'LDAV 2025 Papers'.
 Full papers should have a maximum length of 9 pages with up to two (2) additional pages allowed for only references (maximum total of 11 pages). Full papers may make contributions in techniques, systems, applications, evaluations, or theory. The contributions of full papers are reviewed based on their novelty, contribution, replicability, and evaluation.
 
 ### Short Papers
-Short papers are a venue to report smaller contributions than full papers and should have a length of 4-5 pages in total. Position papers and showcases of interesting application of visualization are good topics for short papers. Technique, system, application, evaluation, or theory papers that have a smaller contribution than a full paper can also be submitted as a short paper.
+Short papers are a venue to report smaller contributions than full papers and should have a length of 4+1 pages in total. Position papers and showcases of interesting application of visualization are good topics for short papers. Technique, system, application, evaluation, or theory papers that have a smaller contribution than a full paper can also be submitted as a short paper.
 
 
 ## Proceedings
