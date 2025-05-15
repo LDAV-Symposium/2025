@@ -1,5 +1,5 @@
 
-title: LDAV 2024
+title: LDAV 2025
 email: ldav@ieeevis.org
 baseurl: ""
 url: "http://ldav.org"
@@ -7,7 +7,7 @@ url: "http://ldav.org"
 # --- site config ---
 
 description: > 
-  The 14th IEEE Symposium on Large Data Analysis and Visualization, in conjunction with IEEE VIS 2024, St. Pete Beach, Florida
+  The 15th IEEE Symposium on Large Data Analysis and Visualization, in conjunction with IEEE VIS 2025, Vienna, Austria
 
 navigation:
  - title: Home
