@@ -10,7 +10,7 @@ Author Notification
 : July 25, 2025
 
 Camera-Ready Deadline
-: August 8, 2024
+: August 8, 2025
 
 <!-- Paper Abstracts -->
 <!-- : June 16, 2023 -->
