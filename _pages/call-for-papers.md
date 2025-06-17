@@ -73,7 +73,7 @@ The Best Paper for IEEE LDAV will be invited to submit an extended version of th
 Abstract Deadline
 : June 16, 2025, 11:59 PM (AOE)
 
-Paper Submission (extended)
+Paper Submission (extended!)
 : June 27, 2025, 11:59 PM (AOE)
 
 Author Notification
