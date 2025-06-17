@@ -3,8 +3,8 @@
 Abstract Deadline
 : June 16, 2025, 11:59 PM (AOE)
 
-Paper Submission
-: June 20, 2025, 11:59 PM (AOE)
+Paper Submission (extended!)
+: June 27, 2025, 11:59 PM (AOE)
 
 Author Notification
 : July 25, 2025
