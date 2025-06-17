@@ -67,103 +67,93 @@ Hongfeng Yu
 
 ## Program Committee
 
-TBD
+<div class="left">
+Ming Jiang
+: Lawrence Livermore National Laboratory
 
-<!-- <div class="left"> -->
-<!-- Tim Biedert -->
-<!-- : NVIDIA -->
+Pascal Grosset
+: Los Alamos National Laboratory
 
-<!-- Mark Bolstad -->
-<!-- : Sandia National Laboratories -->
+Matthew Larsen
+: Luminary Cloud
 
-<!-- Roxana Bujack -->
-<!-- : Los Alamos National Laboratory -->
+Nicole Marsaglia
+: Lawrence Livermore National Laboratory
 
-<!-- Hamish Carr -->
-<!-- : University of Leeds -->
+Federico Iuricich
+: Clemson University
 
-<!-- Soumya Dutta -->
-<!-- : Indian Institute of Technology Kanpur (IIT Kanpur) -->
+David Lenz
+: Argonne National Laboratory
 
-<!-- Takanori Fujiwara -->
-<!-- : Linköping University -->
+Wes Bethel
+: San Francisco State University
 
-<!-- Tim Gerrits -->
-<!-- : RWTH Aachen University -->
+Warren Davis
+: Sandia National Laboratories
 
-<!-- Pascal Grosset -->
-<!-- : Los Alamos National Laboratory -->
+James Klosowski
+: AT&T Labs Research
 
-<!-- Markus Hadwiger -->
-<!-- : KAUST -->
+Joseph Insley
+: Argonne National Laboratory
 
-<!-- Jun Han -->
-<!-- : The Chinese University of Hong Kong, Shenzhen -->
+Hamish Carr
+: University of Leeds
 
-<!-- Joseph Insley -->
-<!-- : Argonne National Laboratory -->
+Joao Barbosa
+: VSB - TUO
 
-<!-- Won-Ki Jeong -->
-<!-- : Korea University -->
+Won-Ki Jeong
+: Korea University
 
-<!-- Ming Jiang -->
-<!-- : Lawrence Livermore National Laboratory -->
+Soumya Dutta
+: Indian Institute of Technology Kanpur (IIT Kanpur)
 
-<!-- James Klosowski -->
-<!-- : AT&T Labs Research -->
+Timothy Shead
+: Sandia National Laboratories
+</div>
 
-<!-- Matthew Larsen -->
-<!-- : Lawrence Livermore National Laboratory -->
+<div class="right">
+Li-Ta Lo
+: Los Alamos National Lab
 
-<!-- Kwan-Liu Ma -->
-<!-- : University of California at Davis -->
+Tim Gerrits
+: RWTH Aachen University
 
-<!-- </div> -->
+Sudhanshu Sane
+: University of Oregon
 
-<!-- <div class="right"> -->
-<!-- Nicole Marsaglia -->
-<!-- : Lawrence Livermore National Laboratory -->
+Markus Hadwiger
+: KAUST
 
-<!-- Victor Mateevitsi -->
-<!-- : Argonne National Laboratory -->
+Hank Childs
+: University of Oregon
 
-<!-- Patrick	O'Leary -->
-<!-- : Kitware, Inc. -->
+Patrick Gralka
+: University of Stuttgart
 
-<!-- Hyungman Park -->
-<!-- : Apple -->
+David Pugmire
+: Oak Ridge National Laboratory
 
-<!-- John Patchett -->
-<!-- : Los Alamos National Laboratory -->
+Jianxin Sun
+: University of Nebraska-Lincoln
 
-<!-- David Pugmire -->
-<!-- : Oak Ridge National Laboratory -->
+David Thompson
+: Kitware, Inc.
 
-<!-- David Rogers -->
-<!-- : Los Alamos National Laboratory -->
+Thomas Theussl
+: Consivi KG
 
-<!-- Filip Sadlo -->
-<!-- : Heidelberg University -->
+Victor Mateevitsi
+: Argonne National Laboratory
 
-<!-- Sudhanshu Sane -->
-<!-- : University of Oregon -->
+Ingo Wald
+: NVIDIA
 
-<!-- Andrea Schnorr -->
-<!-- : RPTU Kaiserslautern-Landau -->
+Hanqi Guo
+: The Ohio State University
 
-<!-- Timothy Shead -->
-<!-- : Sandia National Laboratories -->
-
-<!-- David Thompson -->
-<!-- : Kitware, Inc. -->
-
-<!-- Terece Turton -->
-<!-- : Los Alamos National Laboratory -->
-
-<!-- Will Usher -->
-<!-- : Luminary Cloud -->
-
-<!-- Qi Wu -->
-<!-- : University of California, Davis -->
-
-<!-- </div> -->
+Tom Vierjahn
+: Westphalian University of Applied Sciences
+</div>
