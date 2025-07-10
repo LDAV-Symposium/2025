@@ -45,7 +45,7 @@ Accepted posters will receive links with instructions to upload video previews a
 ## Important Dates
 
 Two-page Poster Paper Submission
-:August 1, 2025, 11:59 PM (AOE)
+: August 1, 2025, 11:59 PM (AOE)
 
 Author Notification
 : August 8, 2025
