@@ -8,12 +8,12 @@ title: Program
 <table class="program">
   <tr>
     <td>09:00am &ndash; 09:10am</td>
-    <td><h4>Opening Remarks</h4></td>
+    <td><h4>Opening Remarks (Roxana Bujack)</h4></td>
   </tr>
   <tr>
     <td>09:10am &ndash; 10:05am</td>
     <td>
-      <h4>Keynote Presentation</h4>
+      <h4>Keynote Presentation (Session Chair: Steffen Frey)</h4>
       Kwan-Liu Ma
       <br/>
     </td>
@@ -22,7 +22,7 @@ title: Program
   <tr>
     <td>10:05am &ndash; 10:45am</td>
     <td>
-      <h4>Papers Session 1</h4>
+      <h4>Papers Session 1 (Session Chair: TBD)</h4>
     </td>
   </tr>
 
@@ -53,7 +53,7 @@ title: Program
  <tr>
     <td>11:15am &ndash; 12:15pm</td>
     <td>
-      <h4>Papers Session 2</h4>
+      <h4>Papers Session 2 (Session Chair: TBD)</h4>
     </td>
   </tr>
   
