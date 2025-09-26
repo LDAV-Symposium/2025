@@ -20,7 +20,7 @@ title: Program
   </tr>
  
   <tr>
-    <td>10:05am &ndash; 10:45am</td>
+    <td>10:05am &ndash; 10:30am</td>
     <td>
       <h4>Papers Session 1 (Session Chair: TBD)</h4>
     </td>
@@ -28,61 +28,61 @@ title: Program
 
   <tr>
    <td>10:05am</td>
-   <td>ChatVis: Large Language Model Agent for Generating Scientific Visualizations<br>
-   Tom Peterka, Tanwi Mallick, Orcun Yildiz, David Lenz, Cory Quammen, Berk Geveci
-    </td>
-  </tr>
-  <tr>
-   <td>10:17am</td>
    <td>Extracting Complex Topology from Multivariate Functional Approximation: Contours, Jacobi Sets, and Ridge-Valley Graphs<br>
    Guanqun Ma, David Lenz, Hanqi Guo, Tom Peterka, Bei Wang
     </td>
   </tr>
   <tr>
-   <td>10:29am</td>
+   <td>10:17am</td>
    <td>Extremely Scalable Distributed Computation of Contour Trees via Pre-Simplification<br>
    Mingzhe Li, Hamish Carr, Oliver Rübel, Bei Wang, Gunther H. Weber
     </td>
   </tr>
 
   <tr>
-    <td>10:45am &ndash; 11:15am</td>
+    <td>10:30am &ndash; 11:00am</td>
     <td><h4>Break</h4></td>
   </tr>
 
  <tr>
-    <td>11:15am &ndash; 12:15pm</td>
+    <td>11:00am &ndash; 12:15pm</td>
     <td>
       <h4>Papers Session 2 (Session Chair: TBD)</h4>
     </td>
   </tr>
-  
+
   <tr>
-   <td>11:15am</td>
+   <td>11:00am</td>
+   <td>ChatVis: Large Language Model Agent for Generating Scientific Visualizations<br>
+   Tom Peterka, Tanwi Mallick, Orcun Yildiz, David Lenz, Cory Quammen, Berk Geveci
+    </td>
+  </tr>
+  <tr>
+   <td>11:12am</td>
    <td>From Soup to Bricks: Fast Clustering of Fine-Grained AMR Hierarchies for Rendering on GPUs<br>
    Stefan Zellmann, Ingo Wald
     </td>
   </tr>
   <tr>
-   <td>11:27am</td>
+   <td>11:24am</td>
    <td>Lossy Parallel Visualization of Large-Scale Volume Data with Error-Bounded Image Compositing<br>
    Yongfeng Qiu, Yuxiao Li, Xin Liang, Yafan Huang, Guanpeng Li, Sheng Di, Franck Cappello, Hanqi Guo
     </td>
   </tr>
   <tr>
-   <td>11:39am</td>
+   <td>11:36am</td>
    <td>Managing Data for Scalable and Interactive Event Sequence Visualization<br>
    Sayef Azad Sakin, Katherine E. Isaacs
     </td>
   </tr>
    <tr>
-   <td>11:51am</td>
+   <td>11:48am</td>
    <td>Out of Core and Adaptive Image Blending Approach for Large Scale Image Mosaics<br>
    Marcus Quincy, Steve Petruzza
     </td>
   </tr>
     <tr>
-   <td>12:03pm</td>
+   <td>12:00pm</td>
    <td>Free Lunch in In Situ Visualization: Leveraging Idle CPU Resources to Mitigate GPU Contention<br>
    Victor A. Mateevitsi, Andres Role Sewell, Jens Henrik Göbbert, Mathis Bode, Paul Fischer, Joseph Insley, Ioannis Kavroulakis, Damaskinos Konioris, Yu-Hsiang Lan, Misun Min, Dimitrios Papageorgiou, Steve Petruzza, Silvio Rizzi, Ananias Tomboulides, Michael E. Papka
     </td>
