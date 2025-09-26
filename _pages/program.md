@@ -8,7 +8,7 @@ title: Program
 <table class="program">
   <tr>
     <td>09:00am &ndash; 09:10am</td>
-    <td>Opening Remarks</td>
+    <td><h4>Opening Remarks</h4></td>
   </tr>
   <tr>
     <td>09:10am &ndash; 10:05am</td>
@@ -16,7 +16,6 @@ title: Program
       <h4>Keynote Presentation</h4>
       Kwan-Liu Ma
       <br/>
-      <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
     </td>
   </tr>
  
@@ -30,7 +29,7 @@ title: Program
   <tr>
    <td>10:05am</td>
    <td>ChatVis: Large Language Model Agent for Generating Scientific Visualizations<br>
-   Tom Peterka Argonne, Tanwi Mallick, Orcun Yildiz, David Lenz, Mr. Cory Quammen, Berk Geveci
+   Tom Peterka, Tanwi Mallick, Orcun Yildiz, David Lenz, Cory Quammen, Berk Geveci
     </td>
   </tr>
   <tr>
@@ -42,19 +41,19 @@ title: Program
   <tr>
    <td>10:29am</td>
    <td>Extremely Scalable Distributed Computation of Contour Trees via Pre-Simplification<br>
-   Mingzhe Li, Hamish Carr, Dr. Oliver Rübel, Bei Wang, Gunther H Weber
+   Mingzhe Li, Hamish Carr, Oliver Rübel, Bei Wang, Gunther H Weber
     </td>
   </tr>
 
   <tr>
     <td>10:45am &ndash; 11:15am</td>
-    <td>Break</td>
+    <td><h4>Break</h4></td>
   </tr>
 
  <tr>
     <td>11:15am &ndash; 12:15pm</td>
     <td>
-      <h4>Papers Session 1</h4>
+      <h4>Papers Session 2</h4>
     </td>
   </tr>
   
@@ -92,7 +91,7 @@ title: Program
   <tr>
     <td>12:15pm &ndash; 12:30pm</td>
     <td>
-      Best paper presentation and closing remarks
+    <h4>Best paper award ceremony and closing remarks</h4>
     </td>
   </tr>
 </table>
