@@ -47,7 +47,7 @@ title: Program
  <tr>
     <td>11:00am &ndash; 12:15pm</td>
     <td>
-      <h4>Papers Session 2 (Session Chair: TBD)</h4>
+      <h4>Papers Session 2 (Session Chair: Tim Gerrits)</h4>
     </td>
   </tr>
 
