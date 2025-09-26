@@ -41,7 +41,7 @@ title: Program
   <tr>
    <td>10:29am</td>
    <td>Extremely Scalable Distributed Computation of Contour Trees via Pre-Simplification<br>
-   Mingzhe Li, Hamish Carr, Oliver Rübel, Bei Wang, Gunther H Weber
+   Mingzhe Li, Hamish Carr, Oliver Rübel, Bei Wang, Gunther H. Weber
     </td>
   </tr>
 
