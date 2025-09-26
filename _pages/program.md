@@ -22,7 +22,7 @@ title: Program
   <tr>
     <td>10:05am &ndash; 10:30am</td>
     <td>
-      <h4>Papers Session 1 (Session Chair: TBD)</h4>
+      <h4>Papers Session 1 (Session Chair: Divya Banesh)</h4>
     </td>
   </tr>
 
