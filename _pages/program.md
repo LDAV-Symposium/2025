@@ -3,84 +3,99 @@ layout: default
 title: Program
 ---
 
-TBD
+**Monday, November 3rd, 2025**
 
-<!-- # Program -->
-
-<!-- **Sunday, October 13, 2024** -->
-<!-- (Eastern Daylight Time GMT-4) -->
-
-<!-- <table class="program"> -->
-<!--   <tr> -->
-<!--     <td>12:00pm &ndash; 12:10pm</td> -->
-<!--     <td>Opening Remarks (Silvio Rizzi)</td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>12:10pm &ndash; 01:00pm</td> -->
-<!--     <td> -->
-<!--       <h4>Keynote Presentation</h4> -->
-<!--       Jefferson Amstutz -->
-<!--       <br/> -->
-<!--       <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a> -->
-<!--     </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>01:00pm &ndash; 01:15pm</td> -->
-<!--     <td> <b>Best Paper</b> -->
-<!--       <br> -->
-<!--       Web-based Visualization and Analytics of Petascale data: Equity as a Tide that Lifts All Boats -->
-<!-- 	<\!-- <br/> -\-> -->
-<!--     <br><ins>Aashish Panta</ins>, Xuan Huang, Nina McCurdy, David Ellsworth, Amy Gooch, Giorgio Scorzelli, Hector Torres, Patrice Klein, Gustavo Ovando-Montejo, Valerio Pascucci -->
-<!--     </td> -->
-<!--   </tr> -->
-
-<!--   <tr> -->
-<!--     <td>01:15pm &ndash; 01:45pm</td> -->
-<!--     <td>Break</td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>01:45pm &ndash; 03:00pm</td> -->
-<!--     <td> -->
-<!--       <h4>Papers Session</h4> -->
-<!--       (Session Chair: Ken Moreland) -->
-<!--     </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--    <td>01:45pm</td> -->
-<!--    <td>  Efficient Analysis and Visualization of High-Resolution Computed Tomography Data for the Exploration of Enclosed Cuneiform Tablets<br> -->
-<!--    Stephan Olbrich, <ins>Andreas Beckert</ins>, Cécile Michel, Christian Schroer, Samaneh Ehteram, Andreas Schropp, Philipp Paetzold -->
-<!--     </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>01:59pm</td> -->
-<!--     <td> -->
-<!-- 	Standardized Data-Parallel Rendering Using ANARI <br> -->
-<!--      <ins>Ingo Wald</ins>, Stefan Zellmann, Jefferson Amstutz, Qi Wu, Kevin Shawn Griffin, Milan Jaroš, Stefan Wesner </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>02:13pm</td> -->
-<!--     <td>Adaptive Multi-Resolution Encoding for Interactive Large-Scale Volume Visualization through Functional Approximation <br> -->
-<!-- 	<ins>Jianxin Sun</ins>, David Lenz, Hongfeng Yu, Tom Peterka -->
-<!-- 	</td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>02:27pm</td> -->
-<!--     <td>Out-of-Core Dimensionality Reduction for Large Data via Out-of-Sample Extensions <br>  -->
-<!-- 	<ins>Luca Marcel Reichmann</ins>, David Hägele, Daniel Weiskopf </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
-<!--     <td>02:41pm</td> -->
-<!--     <td>Distributed Path Compression for Piecewise Linear Morse-Smale Segmentations and Connected Components <br><ins>Michael Will</ins>, Jonas Lukasczyk, Julien Tierny, Christoph Garth </td> -->
-<!--   </tr> -->
+<table class="program">
+  <tr>
+    <td>09:00am &ndash; 09:10am</td>
+    <td>Opening Remarks</td>
+  </tr>
+  <tr>
+    <td>09:10am &ndash; 10:05am</td>
+    <td>
+      <h4>Keynote Presentation</h4>
+      Kwan-Liu Ma
+      <br/>
+      <a style="font-size: smaller; display: block; margin-top: .5em;" href="#keynote">Details</a>
+    </td>
+  </tr>
  
+  <tr>
+    <td>10:05am &ndash; 10:45am</td>
+    <td>
+      <h4>Papers Session 1</h4>
+    </td>
+  </tr>
+
+  <tr>
+   <td>10:05am</td>
+   <td>ChatVis: Large Language Model Agent for Generating Scientific Visualizations<br>
+   Tom Peterka Argonne, Tanwi Mallick, Orcun Yildiz, David Lenz, Mr. Cory Quammen, Berk Geveci
+    </td>
+  </tr>
+  <tr>
+   <td>10:17am</td>
+   <td>Extracting Complex Topology from Multivariate Functional Approximation: Contours, Jacobi Sets, and Ridge-Valley Graphs<br>
+   Guanqun Ma, David Lenz, Hanqi Guo, Tom Peterka, Bei Wang
+    </td>
+  </tr>
+  <tr>
+   <td>10:29am</td>
+   <td>Extremely Scalable Distributed Computation of Contour Trees via Pre-Simplification<br>
+   Mingzhe Li, Hamish Carr, Dr. Oliver Rübel, Bei Wang, Gunther H Weber
+    </td>
+  </tr>
+
+  <tr>
+    <td>10:45am &ndash; 11:15am</td>
+    <td>Break</td>
+  </tr>
+
+ <tr>
+    <td>11:15am &ndash; 12:15pm</td>
+    <td>
+      <h4>Papers Session 1</h4>
+    </td>
+  </tr>
   
-<!--   <tr> -->
-<!--     <td>02:55pm</td> -->
-<!--     <td> -->
-<!--       Closing Remarks (Gunther H. Weber) -->
-<!--     </td> -->
-<!--   </tr> -->
-<!-- </table> -->
+  <tr>
+   <td>11:15am</td>
+   <td>From Soup to Bricks: Fast Clustering of Fine-Grained AMR Hierarchies for Rendering on GPUs<br>
+   Stefan Zellmann, Ingo Wald
+    </td>
+  </tr>
+  <tr>
+   <td>11:27am</td>
+   <td>Lossy Parallel Visualization of Large-Scale Volume Data with Error-Bounded Image Compositing<br>
+   Yongfeng Qiu, Yuxiao Li, Xin Liang, Yafan Huang, Guanpeng Li, Sheng Di, Franck Cappello, Hanqi Guo
+    </td>
+  </tr>
+  <tr>
+   <td>11:39am</td>
+   <td>Managing Data for Scalable and Interactive Event Sequence Visualization<br>
+   Sayef Azad Sakin, Katherine E. Isaacs
+    </td>
+  </tr>
+   <tr>
+   <td>11:51am</td>
+   <td>Out of Core and Adaptive Image Blending Approach for Large Scale Image Mosaics<br>
+   Marcus Quincy, Steve Petruzza
+    </td>
+  </tr>
+    <tr>
+   <td>12:03pm</td>
+   <td>Free Lunch in In Situ Visualization: Leveraging Idle CPU Resources to Mitigate GPU Contention<br>
+   Victor A. Mateevitsi, Andres Role Sewell, Jens Henrik Göbbert, Mathis Bode, Paul Fischer, Joseph Insley, Ioannis Kavroulakis, Damaskinos Konioris, Yu-Hsiang Lan, Misun Min, Dimitrios Papageorgiou, Steve Petruzza, Silvio Rizzi, Ananias Tomboulides, Michael E. Papka
+    </td>
+  </tr>
+  
+  <tr>
+    <td>12:15pm &ndash; 12:30pm</td>
+    <td>
+      Best paper presentation and closing remarks
+    </td>
+  </tr>
+</table>
 
 
 
