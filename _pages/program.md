@@ -8,7 +8,7 @@ title: Program
 <table class="program">
   <tr>
     <td>09:00am &ndash; 09:10am</td>
-    <td><h4>Opening Remarks (Roxana Bujack)</h4></td>
+    <td><h4>Opening Remarks</h4></td>
   </tr>
   <tr>
     <td>09:10am &ndash; 10:05am</td>
@@ -22,7 +22,7 @@ title: Program
   <tr>
     <td>10:05am &ndash; 10:30am</td>
     <td>
-      <h4>Papers Session 1 (Session Chair: Divya Banesh)</h4>
+      <h4>Papers Session 1 (Session Chair: Jianxin Sun)</h4>
     </td>
   </tr>
 
