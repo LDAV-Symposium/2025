@@ -164,18 +164,18 @@ title: Program
 <!-- <\!-- </table> -\-> -->
 
 
-<!-- <\!-- --- -\-> -->
+<!-- --- -->
 
-<!-- # Keynote -->
+# Keynote
 
-<!-- **Scalable 3D Rendering as a Commodity** <br/> -->
-<!-- *Jefferson Amstutz, NVIDIA* -->
+**Emerging Topics in AI-Assisted Visualization of Large-Scale Scientific Data** <br/>
+*Kwan-Liu Ma, University of California, Davis, USA*
 
-<!-- Rendering is an essential component of visualizing large 3D data. Over the years there have been a plethora of research innovations that have moved the state-of-the-art in rendering forward, even for dealing with the ever-growing size of data we need to visualize. However, there hasn’t been a compelling way to ensure that future 3D rendering innovations can make it into tools that end-users can leverage. This talk will go through a brief retrospective of how innovations for rendering large data have come-and-gone and propose a way forward for us to better leverage future innovations in production scale 3D rendering for visualization. -->
+Advancing scientific understanding from large-scale simulations and high-throughput experiments requires transforming massive, high-dimensional outputs into forms that are both manageable and interpretable. While AI and machine learning are increasingly integral to the scientific discovery pipeline, visualization remains a uniquely powerful medium for synthesizing information, revealing patterns, and conveying critical insights. In this talk, I will present a few AI-assisted data reduction and visualization methods that enable faster, more reliable, and more effective exploration and validation of large, complex data. I will also highlight emerging research directions pointing toward the next generation of visualization systems designed to accelerate scientific discovery.
 
-<!-- ## Speaker -->
-<!-- <img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/jeffHeadshot.jpeg" /> -->
-<!-- Jefferson Amstutz is a Senior Developer Technology Engineer at NVIDIA and the current chair of the Khronos ANARI Working Group. Jeff loves all things programming and ray tracing: code craftsmanship, high performance, and compelling visuals. Prior to joining NVIDIA, Jeff was a Visualization Software Engineer at Intel and a HPC Software Engineer at SURVICE Engineering. -->
+## Speaker
+<img style="padding: 0; margin: 0 0 1em 1em; float: right; width: 20%" src="assets/jeffHeadshot.jpeg" />
+Kwan-Liu Ma is a distinguished professor of computer science at the University of California, Davis, where he leads the VIDI Research Group. Before joining UC Davis, he was a staff scientist at ICASE of the NASA Langley Research Center (1993-1999). Professor Ma received his PhD degree in computer science from the University of Utah in 1993. His research interests include visualization, computer graphics, human computer interaction, and high-performance computing. For his significant research accomplishments, Professor Ma has received many recognitions, including the NSF PECASE award in 2000, elected IEEE Fellow in 2012, the IEEE VGTC Visualization Technical Achievement Award in 2013, inducted into the IEEE Visualization Academy in 2019, and elected ACM Fellow in 2023. He has served as papers co-chair for SciVis, InfoVis, EuroVis, PacificVis, and Graph Drawing, and on the editorial board of IEEE TVCG (2007-2011), IEEE CG&A (2007-2019), and ACM TiiS (2021-present). Professor Ma presently serves on both the IEEE VIS Steering Committee and IEEE PacificVis Steering Committee.
 
 <!-- <\!-- # Posters -\-> -->
 
